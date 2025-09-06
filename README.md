@@ -1,3 +1,5 @@
+A pure copy of ProcDoc from https://github.com/wsmaxcy/ProcDoc.git, just because he deleted it
+
 # ProcDoc
 
 **ProcDoc** is a lightweight World of Warcraft (Turtle WoW / Vanilla) addon that shows pulsing visuals whenever your character gains an instant-cast or free-cast buff—like Clearcasting, Shadow Trance, Overpower, etc. It automatically detects procs and displays on-screen alerts in a fun and noticeable way.
